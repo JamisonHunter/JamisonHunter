@@ -6,6 +6,7 @@ My name is Jamison Hunter! I'm aspiring to become a data scientist and developer
 * C++
 * OpenSCAD
 * Arduino
+* HTML & CSS
 * Machine Learning
 
 You can find my resume as one of my linked sites under my Linkedin. Thanks for stopping by!
