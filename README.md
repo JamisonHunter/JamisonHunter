@@ -1,15 +1,14 @@
 # Welcome to my GitHub!
 
-My name is Jamison Hunter! I'm aspiring to become a data scientist and developer after having graduated university in 2021. I have a degree in mathematics and a minor in physics, which has given me a lot of experience in problem solving; a valuablue skill for any data scientist or programmer! I am currently taking data science and machine learning with Coding Dojo. This education along with my previous has been preparing me to enter this field. Below, you'll see projects in which I work with some of the following technologies.
+I'm an aspiring developer with a degree in mathematics. I recently completed a data science and machine learning bootcamp with Coding Dojo. I started my career in teaching and tutoring but I have since found quite a passion in working with Python backends as well as MongoDB. I have also encountered Arduino, which has become a major hobby of mine in the realm of programming! Recently, I've been tackling JavaScript with the Three.js library.
 
-* Data Analysis
 * Python
-* HTML & CSS
-* C++
-* SQL
-* Tableau
+* Flask
+* MongoDB
+* JavaScript
+* Arduino
 
-You can find my resume as one of my linked sites under my Linkedin. Thanks for stopping by!
+Thank you for stopping by and if you're hiring, let's talk!
 <!---
 JamisonHunter/JamisonHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
