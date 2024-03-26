@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-I'm an aspiring developer with a degree in mathematics. I recently completed a data science and machine learning bootcamp with Coding Dojo. I started my career in teaching and tutoring but I have since found quite a passion in Full-Stack development; especially Python and C#. Also enjoy working with C++ and Arduino as a hobby for my side projects. Lately I've been learning more about JavaScript and some of its frontend frameworks like React and Svelte.
+I'm an aspiring developer with a degree in mathematics. I recently completed a data science and machine learning bootcamp with Coding Dojo. I started my career in teaching and tutoring but I have since found quite a passion in Full-Stack development; especially Python and C#. I also enjoy working with C++ and Arduino as a hobby for my side projects. Lately I've been learning more about JavaScript and some of its frontend frameworks like React and Svelte.
 
 * Python
 * Flask
