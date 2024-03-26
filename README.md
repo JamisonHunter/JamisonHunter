@@ -5,8 +5,8 @@ I'm an aspiring developer with a degree in mathematics. I recently completed a d
 * Python
 * Flask
 * MongoDB
-* JavaScript
-* Arduino
+* C#
+* .NET Framework
 
 Thank you for stopping by and if you're hiring, let's talk!
 <!---
