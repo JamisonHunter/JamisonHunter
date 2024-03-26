@@ -4,7 +4,7 @@ I'm an aspiring developer with a degree in mathematics. I recently completed a d
 
 * Python
 * Flask
-* * C#
+* C#
 * .NET Framework
 * MongoDB
 
