@@ -5,7 +5,6 @@ I'm an aspiring developer with a degree in mathematics. I recently completed a d
 * Python
 * Flask
 * C#
-* .NET Framework
 * MongoDB
 
 Thank you for stopping by and if you're hiring or working on an interesting project, let's talk!
