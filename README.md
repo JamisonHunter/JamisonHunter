@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-I'm a developer at Goldpoint Systems. I work with frontend technologies at work and in my free time I write and create useful tools for myself in other languages!
+I'm a developer at Goldpoint Systems. I work with frontend technologies at work and in my free time I write and create useful tools for myself in other Python, C++, and Rust!
 * Angular
 * Typescript
 * Python
