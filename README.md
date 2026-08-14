@@ -5,6 +5,7 @@ I'm currently a front end Angular software developer at Goldpoint Systems associ
 ## Skills
 * Angular
 * TypeScript
+* Python
 
 ## Interests
 * Embedded systems
