@@ -4,9 +4,9 @@ Front end software developer at **Goldpoint Systems** (DHI Corporation), buildin
 
 ## Skills
 
-- **Languages:** TypeScript, Python, Rust
+- **Languages:** TypeScript, Python
 - **Frameworks & Tools:** Angular
-- **Domains:** Front end development, embedded systems
+- **Domains:** Front end development
 
 ## Currently
 
