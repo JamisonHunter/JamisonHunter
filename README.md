@@ -1,6 +1,10 @@
 # Jamison Hunter
 
-Front end software developer at **Goldpoint Systems** (DHI Corporation), building Angular applications for the financial services industry. Outside of work I am learning embedded systems programming with a focus on Rust. I also have a great deal of Python experience from my education.
+Front end software developer at **Goldpoint Systems** (DHI Corporation), building Angular applications for the financial services industry. 
+
+Outside of work I am learning embedded systems programming with a focus on Rust. 
+
+I also have a great deal of Python experience from my education.
 
 ## Skills
 
