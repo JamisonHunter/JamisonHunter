@@ -1,15 +1,18 @@
 # Jamison Hunter
 
-I'm currently a front end Angular software developer at Goldpoint Systems associated with the DHI Corporation. I work primarily with financial software at work. In my freetime I use Rust for systems related projects. 
+Front end software developer at **Goldpoint Systems** (DHI Corporation), building Angular applications for the financial services industry. Outside of work I am learning embedded systems programming with a focus on Rust. I also have a great deal of Python experience from my education.
 
 ## Skills
-* Angular
-* TypeScript
-* Python
 
-## Interests
-* Embedded systems
-* Rust
+- **Languages:** TypeScript, Python, Rust
+- **Frameworks & Tools:** Angular
+- **Domains:** Front end development, embedded systems
+
+## Currently
+
+- Shipping and maintaining production Angular software in a regulated financial domain
+- Learning systems and embedded programming
+
 <!---
 JamisonHunter/JamisonHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
