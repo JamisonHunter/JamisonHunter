@@ -17,7 +17,9 @@ I also have a great deal of Python experience from my education.
 ### Free Books That I Like
 
 - [Fundamentals of Modern Physics](https://www.physicscurriculum.com/modernphysicsnolan)
+- [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/)
 - [Brown University Rust Book](https://rust-book.cs.brown.edu/experiment-intro.html)
+- [Embedded Rust Book](https://docs.rust-embedded.org/book/)
 
 <!---
 JamisonHunter/JamisonHunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
