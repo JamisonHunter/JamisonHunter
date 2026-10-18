@@ -14,7 +14,7 @@ I also have a great deal of Python experience from my education.
 - **Frameworks & Tools:** Angular
 - **Domains:** Front end development
 
-# Free Books That I Like
+### Free Books That I Like
 
 - [Fundamentals of Modern Physics](https://www.physicscurriculum.com/modernphysicsnolan)
 - [Brown University Rust Book](https://rust-book.cs.brown.edu/experiment-intro.html)
